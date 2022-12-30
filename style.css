@@ -1,0 +1,42 @@
+/* *{
+    background-color:black;
+} */
+
+.container{
+    width:550px;
+    background-color:silver;
+    height:250px;
+    position:absolute;
+    display:flex;
+}
+
+.display1{
+    height:200px;
+    width:150px;
+    background-color:white;
+    margin-top:25px;  
+    margin-left:25px; 
+}
+
+.display2{
+    height:200px;
+    width:150px;
+    background-color:white;
+    margin-top:25px;  
+    margin-left:25px; 
+}
+
+.display3{
+    height:200px;
+    width:150px;
+    background-color:white;
+    margin-top:25px;  
+    margin-left:25px; 
+}
+
+.btn{
+    background-color:white;
+    width:500px;
+    
+
+}
